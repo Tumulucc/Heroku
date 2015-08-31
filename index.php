@@ -17,5 +17,5 @@
 echo "Hello Heroku World!!";
 ?>
 <?php
-includes_url(footer.php);
+include 'footer.php';
 ?>
